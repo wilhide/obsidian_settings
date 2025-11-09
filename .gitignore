@@ -1,3 +1,10 @@
+# Ignore everything by default
 /*
+
+# Allow these paths
 !.gitignore
 !.obsidian/
+!🧾 Metadata/Scripts/
+
+# But still ignore Obsidian workspace state
+.obsidian/workspace.json
