@@ -6,6 +6,7 @@
 !.obsidian/
 !🧾 Metadata/Scripts/
 !🧭 Dashboards/
+!⚙️ Templates/
 
 # But still ignore Obsidian workspace state
 .obsidian/workspace.json
