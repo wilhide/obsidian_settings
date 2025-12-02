@@ -38,22 +38,22 @@ tags do not include complete
 tags do not include onhold
 tags do not include slack
 is not recurring
-limit to 3 tasks per file
 group by filename
-hide backlinks
+limit groups to 3 tasks
 exclude sub-items
+hide backlinks
 ```
 
 ### 🟡 WAITING
 ```tasks
 not done
 path includes 💼 Projects
-description includes #waiting
-description does not include #complete
-description does not include #onhold
-description does not include #slack
+tags include waiting
+tags do not include complete
+tags do not include onhold
+tags do not include slack
 is not recurring
-limit to 3 tasks per file
+limit groups to 3 tasks
 group by filename
 hide backlinks
 exclude sub-items
@@ -65,12 +65,12 @@ exclude sub-items
 ```tasks
 not done
 path includes 💼 Projects
-description includes #blocked
-description does not include #complete
-description does not include #onhold
-description does not include #slack
+tags include blocked
+tags do not include complete
+tags do not include onhold
+tags do not include slack
 is not recurring
-limit to 3 tasks per file
+limit groups to 3 tasks
 group by filename
 hide backlinks
 exclude sub-items
@@ -84,13 +84,13 @@ exclude sub-items
 ```tasks
 not done
 path includes 🧠 Knowledge Base
-description does not include #waiting
-description does not include #blocked
-description does not include #complete
-description does not include #onhold
-description does not include #slack
+tags do not include waiting
+tags do not include blocked
+tags do not include complete
+tags do not include onhold
+tags do not include slack
 is not recurring
-limit to 3 tasks per file
+limit groups to 3 tasks
 group by filename
 hide backlinks
 exclude sub-items
@@ -100,12 +100,12 @@ exclude sub-items
 ```tasks
 not done
 path includes 🧠 Knowledge Base
-description includes #waiting
-description does not include #complete
-description does not include #onhold
-description does not include #slack
+tags include waiting
+tags do not include complete
+tags do not include onhold
+tags do not include slack
 is not recurring
-limit to 3 tasks per file
+limit groups to 3 tasks
 group by filename
 hide backlinks
 exclude sub-items
@@ -115,12 +115,12 @@ exclude sub-items
 ```tasks
 not done
 path includes 🧠 Knowledge Base
-description includes #blocked
-description does not include #complete
-description does not include #onhold
-description does not include #slack
+tags include blocked
+tags do not include complete
+tags do not include onhold
+tags do not include slack
 is not recurring
-limit to 3 tasks per file
+limit groups to 3 tasks
 group by filename
 hide backlinks
 exclude sub-items
@@ -134,13 +134,13 @@ exclude sub-items
 ```tasks
 not done
 path regex matches /^(📥 Inbox|📅 Daily Notes)/u
-description does not include #waiting
-description does not include #blocked
-description does not include #complete
-description does not include #onhold
-description does not include #slack
+tags do not include waiting
+tags do not include blocked
+tags do not include complete
+tags do not include onhold
+tags do not include slack
 is not recurring
-limit to 3 tasks per file
+limit groups to 3 tasks
 group by filename
 hide backlinks
 exclude sub-items
@@ -150,14 +150,14 @@ exclude sub-items
 ```tasks
 not done
 path regex matches /^(📥 Inbox|📅 Daily Notes)/u
-description includes #waiting
-description does not include #complete
-description does not include #onhold
-description does not include #slack
+tags include waiting
+tags do not include complete
+tags do not include onhold
+tags do not include slack
 is not recurring
 scheduled before tomorrow
 starts before tomorrow
-limit to 3 tasks per file
+limit groups to 3 tasks
 group by filename
 hide backlinks
 exclude sub-items
@@ -167,14 +167,14 @@ exclude sub-items
 ```tasks
 not done
 path regex matches /^(📥 Inbox|📅 Daily Notes)/u
-description includes #blocked
-description does not include #complete
-description does not include #onhold
-description does not include #slack
+tags include blocked
+tags do not include complete
+tags do not include onhold
+tags do not include slack
 is not recurring
 scheduled before tomorrow
 starts before tomorrow
-limit to 3 tasks per file
+limit groups to 3 tasks
 group by filename
 hide backlinks
 exclude sub-items
