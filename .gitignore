@@ -5,6 +5,7 @@
 !.gitignore
 !.obsidian/
 !🧾 Metadata/Scripts/
+!🧭 Dashboards/
 
 # But still ignore Obsidian workspace state
 .obsidian/workspace.json
