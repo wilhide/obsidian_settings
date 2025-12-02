@@ -9,9 +9,6 @@ last_reviewed: 2025-11-04
 related: []
 sources: []
 ---
-
-# <% tp.file.title %>
-
 > [!check] **Research or something else?**
 > Use this note to **explore, collect, and synthesize** information from multiple sources or experiments.  
 > It’s about *discovery*, not polished conclusions.  
@@ -27,7 +24,7 @@ sources: []
 
 ---
 
-## 🔍 Purpose / Research Question
+# 🔍 Purpose / Research Question
 > [!tip]
 > Clearly define what you’re trying to learn, test, or understand.  
 > Framing a question helps you focus your research and avoid rabbit holes.
@@ -36,33 +33,29 @@ sources: []
 
 ---
 
-## 🧾 Method / Approach
-> [!tip]
-> Explain *how* you gathered or tested information — reading, experimenting, measuring, interviewing, etc.
-
-- 
-
----
-
-## 🧾 Raw Notes
+# 🧾 Raw Notes
 >[!tip]
 >Capture stream-of-consciousness material here — phrases, examples, commands, code, or thoughts.  
 
 
 ---
 
-## 🧩 Key Findings
+# 🧩 Key Findings
 > [!tip]
 > Capture essential insights, takeaways, or observations.  
 > Each bullet should represent something you learned or verified.
 
 - 
-- 
-- 
 
 ---
+# 🔗 Related
+> [!tip]
+> Link to Concepts, How-tos, Playbooks, or Patterns that either informed this research or were created from it.
 
-## 🧠 Interpretation / Takeaways
+- [[ ]]
+
+---
+# 🧠 Interpretation / Takeaways
 > [!tip]
 > Translate your findings into meaning.  
 > What did you learn? How does this connect to your current work or existing notes?
@@ -70,8 +63,14 @@ sources: []
 - 
 
 ---
+# 🧾 Method / Approach
+> [!tip]
+> Explain *how* you gathered or tested information — reading, experimenting, measuring, interviewing, etc.
 
-## 🚧 Next Steps
+- 
+
+---
+# 🚧 Next Steps
 > [!tip]
 > Note follow-up actions, open questions, or new notes to create (e.g., Concept or Pattern drafts).
 
@@ -79,15 +78,11 @@ sources: []
 
 ---
 
-## 🔗 Related
-> [!tip]
-> Link to Concepts, How-tos, Playbooks, or Patterns that either informed this research or were created from it.
 
-- [[ ]]
 
 ---
 
-## 📚 Sources
+# 📚 Sources
 > [!tip]
 > List the materials you read, watched, or experimented with — articles, videos, papers, or data sets.  
 > Include URLs or local file paths for quick reference.
