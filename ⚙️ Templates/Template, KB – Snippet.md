@@ -10,7 +10,6 @@ related: []
 sources: []
 ---
 
-# <% tp.file.title %>
 
 > [!check] **Snippet or something else?**
 > Use this note for **short, self-contained bits of code, scripts, or commands**.  
@@ -25,10 +24,11 @@ sources: []
 
 ---
 
-## 🧰 Code / Command
+# 🧰 Code / Command
 > [!tip]
 > Paste the snippet here. Use fenced code blocks and include language syntax highlighting.
 
 ```bash
 # Example: List EC2 instance IDs
 aws ec2 describe-instances --query "Reservations[].Instances[].InstanceId"
+```

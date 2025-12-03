@@ -13,8 +13,7 @@ obsidianUIMode: preview
 const MAX_PREVIEW = 180; // tweak this value to change snippet length
 const openPages = dv.pages("\"📥 Inbox\"")
   .where(p => p.processed === false)
-  .sort(p => p.created ? -p.created.toMillis() : 0)
-  .limit(5);
+  .sort(p => p.created ? -p.created.toMillis() : 0);
 
 const openRows = [];
 for (const page of openPages) {

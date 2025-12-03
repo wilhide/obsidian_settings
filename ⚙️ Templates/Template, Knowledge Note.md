@@ -10,7 +10,7 @@ last_reviewed: {{date:YYYY-MM-DD}}
 related: []
 sources: []
 ---
-# <% tp.file.title %>
+
 
 > [!info] Knowledge Capture Flow  
 > - Start with a short **Summary** of what you learned.  
@@ -24,12 +24,12 @@ sources: []
 > 	- **research**: Capture _source material_ and distilled insights from reading, courses, or experiments.
 
 
-## 📝 Summary
+# 📝 Summary
 (Brief notes or key takeaways)
 
-## 💭 Personal Reflection (optional)
+# 💭 Personal Reflection (optional)
 (Why this matters to me / how I might apply it)
 
-## 🔗 Source
+# 🔗 Source
 [Link or citation]
 
