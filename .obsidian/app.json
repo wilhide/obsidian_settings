@@ -3,5 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "📥 Inbox",
   "attachmentFolderPath": "📥 Inbox/Attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }
