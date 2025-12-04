@@ -1,13 +1,14 @@
 ---
 type: training
-tags: 
+tags:
   - training
   - area/professional
-provider: 
-instructor: 
-course: 
-module: 
-ceu: 
+provider:
+instructor:
+course:
+module:
+ceu:
+related:
 ---
 
 

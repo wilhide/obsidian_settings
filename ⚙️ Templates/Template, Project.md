@@ -45,15 +45,7 @@ poc:
 > Add short dated notes as you work — discoveries, issues, or decisions.  
 > Each entry can link out to Research or How-to notes created during this project.
 
-- **<% tp.date.now("YYYY-MM-DD") %>:**
-
----
-# 🔗 Related
-> [!tip]
-> Link to supporting or follow-up materials — related projects, reference notes, or external documents.  
-> These help connect your body of work.
-
-- [[ ]]
+## <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 # 🪞 Reflection

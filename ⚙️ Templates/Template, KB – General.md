@@ -29,6 +29,3 @@ poc:
 # 💭 Personal Reflection (optional)
 (Why this matters to me / how I might apply it)
 
-# 🔗 Source
-[Link or citation]
-

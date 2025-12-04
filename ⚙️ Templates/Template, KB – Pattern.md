@@ -66,18 +66,3 @@ sources: []
 
 - 
 
----
-
-# 🔗 Related
-> [!tip]
-> Link to Concepts (theoretical foundations), How-tos (implementations), or Playbooks (scenarios) that connect to this pattern.
-
-- [[ ]]
-
----
-
-# 🔍 Sources
-> [!tip]
-> Record external references, whitepapers, design docs, or your own notes that informed this pattern.
-
-- 

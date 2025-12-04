@@ -7,18 +7,18 @@
 > 4️⃣ Pick one small win to celebrate. 🎉
 
 
-## 📅 Overview
+# 📅 Overview
 - Completed projects/tasks:
 - Ongoing focus:
 - Items still pending:
 
-## 💭 Reflection
+# 💭 Reflection
 - 🌟 What went well this week?
 - ⚠️ What challenged me?
 - 💡 What did I learn?
 - 🙏 Something I’m grateful for:
 
-## 🎯 Next Week
+# 🎯 Next Week
 Focus theme or sprint:
 
 Top 3 priorities:

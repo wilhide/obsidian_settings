@@ -49,13 +49,6 @@ poc:
 - 
 
 ---
-# 🔗 Related
-> [!tip]
-> Link to Concepts, How-tos, Playbooks, or Patterns that either informed this research or were created from it.
-
-- [[ ]]
-
----
 # 🧠 Interpretation / Takeaways
 > [!tip]
 > Translate your findings into meaning.  
@@ -77,15 +70,3 @@ poc:
 
 - 
 
----
-
-
-
----
-
-# 📚 Sources
-> [!tip]
-> List the materials you read, watched, or experimented with — articles, videos, papers, or data sets.  
-> Include URLs or local file paths for quick reference.
-
-- 

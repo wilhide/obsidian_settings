@@ -28,7 +28,3 @@ sources: []
 > [!tip]
 > Paste the snippet here. Use fenced code blocks and include language syntax highlighting.
 
-```bash
-# Example: List EC2 instance IDs
-aws ec2 describe-instances --query "Reservations[].Instances[].InstanceId"
-```

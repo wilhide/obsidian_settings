@@ -10,7 +10,6 @@ related: []
 sources: []
 ---
 
-# <% tp.file.title %>
 
 > [!check] **Playbook or something else?**
 > Use this note for **repeatable workflows** or **response plans** for recurring scenarios.  
@@ -27,7 +26,7 @@ sources: []
 
 ---
 
-## 🎯 Trigger / When to Use
+# 🎯 Trigger / When to Use
 > [!tip]
 > Define the conditions or signals that tell you to use this playbook.  
 > Example: *“Use this when an EC2 instance is unresponsive for more than 10 minutes.”*
@@ -36,7 +35,7 @@ sources: []
 
 ---
 
-## 🧭 Objective
+# 🧭 Objective
 > [!tip]
 > State what success looks like — the desired end condition or measurable outcome.
 
@@ -44,23 +43,23 @@ sources: []
 
 ---
 
-## 🪜 Phases
+# 🪜 Phases
 > [!tip]
 > Break the process into logical sections or phases (e.g., *Prepare → Act → Review*).  
 > Under each phase, include concise actions or sub-steps.
 
-### 🧰 Phase 1 — 
+## 🧰 Phase 1 — 
 - 
 
-### 🧰 Phase 2 — 
+## 🧰 Phase 2 — 
 - 
 
-### 🧰 Phase 3 — 
+## 🧰 Phase 3 — 
 - 
 
 ---
 
-## 🔁 Follow-up / Review
+# 🔁 Follow-up / Review
 > [!tip]
 > Capture what happens *after* the main flow — postmortems, documentation, reflection, or updates to systems and people.
 
@@ -68,26 +67,10 @@ sources: []
 
 ---
 
-## ⚠️ Common Pitfalls
+# ⚠️ Common Pitfalls
 > [!tip]
 > Note common mistakes, oversights, or conditions that make the situation worse.  
 > These insights are often the difference between “procedure” and “wisdom.”
 
 - 
 
----
-
-## 🔗 Related
-> [!tip]
-> Link to Concepts that inform this playbook or How-tos used within it.  
-> These are your “supporting materials.”
-
-- [[ ]]
-
----
-
-## 🔍 Sources
-> [!tip]
-> Add reference materials, checklists, or original playbooks you adapted from.
-
-- 

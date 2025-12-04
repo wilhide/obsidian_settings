@@ -60,18 +60,3 @@ poc:
 
 - 
 
----
-
-# 🔗 Related
-> [!tip]
-> Link to Concepts, Playbooks, or Patterns that explain *why* or *where* this procedure applies.
-
-- 
-
----
-
-# 🔍 Sources
-> [!tip]
-> Record external references (docs, blog posts, command manuals) or internal notes you used to build this procedure.
-
-- 

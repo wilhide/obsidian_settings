@@ -43,19 +43,4 @@ poc:
 
 - 
 
----
 
-# 🔗 Related
-> [!tip]
-> Link to other notes (Concepts, How-tos, Playbooks, Patterns, Research) that clarify, contrast, or extend this idea.
-
-- 
-
----
-
-# 🔍 Sources
-> [!tip]
-> List where you learned this from — articles, videos, papers, or other vault notes.  
-> Include URLs or internal links so future-you can revisit the originals.
-
-- 
