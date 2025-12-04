@@ -5,11 +5,12 @@ tags:
   - area/professional
 division: []
 roles: []
-title: 
+title:
 sme: []
 related: []
-phone: 
-email: 
+phone:
+email:
+location:
 ---
 
 # 📝 Notes
