@@ -3,7 +3,7 @@ type: person
 tags:
   - person
   - area/professional
-division: 
+division: []
 roles: []
 title: 
 sme: []
