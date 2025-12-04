@@ -328,6 +328,36 @@
       },
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "79578355-b53b-4292-9b79-98f60ad9e2d3",
+      "name": "New Person",
+      "type": "Template",
+      "command": true,
+      "templatePath": "⚙️ Templates/Template, Person.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "👤 {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "🧠 Knowledge Base/👤 People"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "live",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "inputPrompt": "multi-line",
