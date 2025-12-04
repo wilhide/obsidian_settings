@@ -307,7 +307,7 @@
       "templatePath": "⚙️ Templates/Template, Meeting.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "🗓️ {{DATE:YYYY-MM-DD}} {{value}}"
+        "format": "🗓️ {{DATE:YYYY-MM-DD}} - {{value}}"
       },
       "folder": {
         "enabled": true,
