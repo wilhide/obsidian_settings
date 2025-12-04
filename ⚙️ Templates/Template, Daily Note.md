@@ -17,7 +17,7 @@ Focus area of the day:
 - 💡 One insight or improvement:
 
 ## 🌱 Habit Tracker
-- [ ] Opened Obsidian today
+
 
 > [!check] Quick End-of-Day Reflection  
 > - 🌟 What went well today?  
