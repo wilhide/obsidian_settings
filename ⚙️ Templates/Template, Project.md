@@ -2,15 +2,16 @@
 type: project
 tags:
   - project
-status: Idea                     # Idea | Planned | In Progress | Blocked | On Hold | Completed | Archived
-next_step: 
-priority: P3                     # P1–P4
+status: Idea
+next_step:
+priority: P3
 start: <% tp.date.now("YYYY-MM-DD") %>
-due: 
-phase: Idea                      # Idea | Planning | Execution | Review | Closed
-outcome: 
+due:
+phase: Idea
+outcome:
 related: []
-review: 
+review:
+poc:
 ---
 
 

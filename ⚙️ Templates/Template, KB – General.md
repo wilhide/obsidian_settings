@@ -9,6 +9,7 @@ last_reviewed:
   "{ date:YYYY-MM-DD }":
 related: []
 sources: []
+poc:
 ---
 > [!info] Knowledge Capture Flow  
 > - Start with a short **Summary** of what you learned.  

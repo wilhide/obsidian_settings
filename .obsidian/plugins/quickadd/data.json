@@ -274,7 +274,7 @@
       "name": "New Training Note",
       "type": "Template",
       "command": true,
-      "templatePath": "⚙️ Templates/Template, Training Note.md.md",
+      "templatePath": "⚙️ Templates/Template, Training Note.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "🎓 {{value}}"
@@ -294,6 +294,36 @@
         "location": "tab",
         "direction": "vertical",
         "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "fb179961-3eae-493f-92b7-0b3c74f32bac",
+      "name": "New Meeting",
+      "type": "Template",
+      "command": true,
+      "templatePath": "⚙️ Templates/Template, Meeting.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "🗓️ {{DATE:YYYY-MM-DD}} {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "📝 Meetings"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "live",
         "focus": true
       },
       "fileExistsMode": "Increment the file name",

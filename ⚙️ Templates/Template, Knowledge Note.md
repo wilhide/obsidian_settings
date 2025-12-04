@@ -3,12 +3,14 @@ type: concept | howto | playbook | pattern | research
 tags:
   - knowledge
   - area/professional
-  - topic/aws 
-title: 
-summary: 
-last_reviewed: {{date:YYYY-MM-DD}}
+  - topic/aws
+title:
+summary:
+last_reviewed:
+  "{ date:YYYY-MM-DD }":
 related: []
 sources: []
+poc:
 ---
 
 

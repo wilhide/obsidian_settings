@@ -8,6 +8,7 @@ summary:
 last_reviewed: 2025-11-04
 related: []
 sources: []
+poc:
 ---
 > [!check] **How-to or something else?**
 > Use this note for **step-by-step procedures** you might repeat or teach.  

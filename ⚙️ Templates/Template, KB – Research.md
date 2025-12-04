@@ -8,6 +8,7 @@ summary:
 last_reviewed: 2025-11-04
 related: []
 sources: []
+poc:
 ---
 > [!check] **Research or something else?**
 > Use this note to **explore, collect, and synthesize** information from multiple sources or experiments.  
