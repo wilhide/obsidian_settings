@@ -3,7 +3,7 @@ type: project
 tags:
   - project
 phase: Idea
-status: Idea
+status: Active
 priority: P3
 start: <% tp.date.now("YYYY-MM-DD") %>
 due:
