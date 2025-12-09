@@ -37,7 +37,7 @@ poc:
 # 🧾 Raw Notes
 >[!tip]
 >Capture stream-of-consciousness material here — phrases, examples, commands, code, or thoughts.  
-
+## <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
