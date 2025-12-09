@@ -14,11 +14,12 @@ review:
 poc:
 ---
 
-
 > [!check] **Project or something else?**
 > Use this note for any goal that requires **multiple steps** and results in a clear **outcome or deliverable**.  
 > If it’s a single action, make it a **task**.  
 > If it’s an ongoing process (no endpoint), make it a **routine** or **playbook**.
+> - **Phases:** Idea, Planning, Execution, Review, Closed
+> - **Statuses:** Active, Blocked, On Hold, Completed
 
 ---
 
