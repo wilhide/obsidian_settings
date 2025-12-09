@@ -149,8 +149,6 @@ tags do not include complete
 tags do not include onhold
 tags do not include slack
 is not recurring
-scheduled before tomorrow
-starts before tomorrow
 group by filename
 hide backlinks
 exclude sub-items
@@ -165,8 +163,6 @@ tags do not include complete
 tags do not include onhold
 tags do not include slack
 is not recurring
-scheduled before tomorrow
-starts before tomorrow
 group by filename
 hide backlinks
 exclude sub-items
