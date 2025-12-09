@@ -8,7 +8,7 @@
 
 ## 🟢 Active Projects
 ```dataview
-TABLE status AS "Status", due AS "Due", next_step AS "Next Step"
+TABLE status AS "Status", due AS "Due"
 FROM "💼 Projects"
 WHERE contains(tags, "project") AND !contains(tags, "complete") AND !contains(status, "On Hold")
 SORT due ASC

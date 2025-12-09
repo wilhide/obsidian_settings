@@ -2,16 +2,14 @@
 type: project
 tags:
   - project
+phase: Idea
 status: Idea
-next_step:
 priority: P3
 start: <% tp.date.now("YYYY-MM-DD") %>
 due:
-phase: Idea
-outcome:
 related: []
-review:
 poc:
+division:
 ---
 
 > [!check] **Project or something else?**
