@@ -40,7 +40,6 @@ tags do not include onhold
 tags do not include slack
 is not recurring
 group by filename
-limit groups to 3 tasks
 exclude sub-items
 hide backlinks
 ```
@@ -54,7 +53,6 @@ tags do not include complete
 tags do not include onhold
 tags do not include slack
 is not recurring
-limit groups to 3 tasks
 group by filename
 hide backlinks
 exclude sub-items
@@ -71,7 +69,6 @@ tags do not include complete
 tags do not include onhold
 tags do not include slack
 is not recurring
-limit groups to 3 tasks
 group by filename
 hide backlinks
 exclude sub-items
@@ -91,7 +88,6 @@ tags do not include complete
 tags do not include onhold
 tags do not include slack
 is not recurring
-limit groups to 3 tasks
 group by filename
 hide backlinks
 exclude sub-items
@@ -106,7 +102,6 @@ tags do not include complete
 tags do not include onhold
 tags do not include slack
 is not recurring
-limit groups to 3 tasks
 group by filename
 hide backlinks
 exclude sub-items
@@ -121,7 +116,6 @@ tags do not include complete
 tags do not include onhold
 tags do not include slack
 is not recurring
-limit groups to 3 tasks
 group by filename
 hide backlinks
 exclude sub-items
@@ -141,7 +135,6 @@ tags do not include complete
 tags do not include onhold
 tags do not include slack
 is not recurring
-limit groups to 3 tasks
 group by filename
 hide backlinks
 exclude sub-items
@@ -158,7 +151,6 @@ tags do not include slack
 is not recurring
 scheduled before tomorrow
 starts before tomorrow
-limit groups to 3 tasks
 group by filename
 hide backlinks
 exclude sub-items
@@ -175,7 +167,6 @@ tags do not include slack
 is not recurring
 scheduled before tomorrow
 starts before tomorrow
-limit groups to 3 tasks
 group by filename
 hide backlinks
 exclude sub-items
