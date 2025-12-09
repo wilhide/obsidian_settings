@@ -22,6 +22,7 @@ is not recurring
 sort by due
 group by due
 hide backlinks
+group by filename
 exclude sub-items
 ```
 ---
