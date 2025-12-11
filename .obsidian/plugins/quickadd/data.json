@@ -356,15 +356,15 @@
         "mode": "live",
         "focus": true
       },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true
     }
   ],
   "inputPrompt": "multi-line",
   "devMode": false,
   "templateFolderPath": "",
   "announceUpdates": true,
-  "version": "2.8.0",
+  "version": "2.6.0",
   "globalVariables": {},
   "onePageInputEnabled": false,
   "disableOnlineFeatures": true,
