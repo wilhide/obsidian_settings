@@ -18,12 +18,10 @@ sources: []
 > If you’re compiling **findings or evidence**, use a 🔬 *Research* note.
 
 ---
-
 > [!info] **TL;DR**
 > Briefly summarize the recurring problem this pattern solves and its core idea.
 
 ---
-
 # 🧩 Problem
 > [!tip]
 > Describe the context and challenge this pattern addresses.  
@@ -32,7 +30,6 @@ sources: []
 - 
 
 ---
-
 # 💡 Solution
 > [!tip]
 > Outline the reusable approach, structure, or model that resolves the problem.  
@@ -41,7 +38,6 @@ sources: []
 - 
 
 ---
-
 # ⚙️ Implementation
 > [!tip]
 > Show how to apply this pattern in practice — specific examples, workflows, or configurations.
@@ -49,7 +45,6 @@ sources: []
 - 
 
 ---
-
 # ⚖️ Trade-offs / Limitations
 > [!tip]
 > Describe where this pattern *works well* and where it *doesn’t*.  
@@ -58,7 +53,6 @@ sources: []
 - 
 
 ---
-
 # 🧠 Example / Use Case
 > [!tip]
 > Provide one or two concrete examples of this pattern in action.  

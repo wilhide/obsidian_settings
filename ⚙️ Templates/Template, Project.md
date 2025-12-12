@@ -11,7 +11,6 @@ related: []
 poc:
 division:
 ---
-
 > [!check] **Project or something else?**
 > Use this note for any goal that requires **multiple steps** and results in a clear **outcome or deliverable**.  
 > If it’s a single action, make it a **task**.  
@@ -20,7 +19,6 @@ division:
 > - **Statuses:** Active, Blocked, On Hold, Completed
 
 ---
-
 # 🧠 Idea
 > [!tip]
 > Capture the **spark** — what inspired this project, why it matters, and what problem it solves.  
@@ -28,7 +26,6 @@ division:
 
 
 ---
-
 # 🪜 Plan / Milestones
 > [!tip]
 > Outline the high-level steps or major checkpoints that will lead to completion.  
@@ -37,7 +34,6 @@ division:
 
 
 ---
-
 # ⚙️ Work Log
 > [!tip]
 > Use this space as a **running journal of progress**.  

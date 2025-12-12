@@ -12,6 +12,5 @@ phone:
 email:
 location:
 ---
-
 # 📝 Notes
 - 

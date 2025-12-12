@@ -9,8 +9,6 @@ last_reviewed: 2025-11-04
 related: []
 sources: []
 ---
-
-
 > [!check] **Playbook or something else?**
 > Use this note for **repeatable workflows** or **response plans** for recurring scenarios.  
 > It covers *what to do when X happens* — blending structure and judgment.  
@@ -20,12 +18,10 @@ sources: []
 > If it captures **research or findings**, use a 🔬 *Research* note.
 
 ---
-
 > [!info] **TL;DR**
 > In 2–3 sentences, describe the scenario this Playbook addresses and the outcome it achieves.
 
 ---
-
 # 🎯 Trigger / When to Use
 > [!tip]
 > Define the conditions or signals that tell you to use this playbook.  
@@ -34,7 +30,6 @@ sources: []
 - 
 
 ---
-
 # 🧭 Objective
 > [!tip]
 > State what success looks like — the desired end condition or measurable outcome.
@@ -42,7 +37,6 @@ sources: []
 - 
 
 ---
-
 # 🪜 Phases
 > [!tip]
 > Break the process into logical sections or phases (e.g., *Prepare → Act → Review*).  
@@ -58,7 +52,6 @@ sources: []
 - 
 
 ---
-
 # 🔁 Follow-up / Review
 > [!tip]
 > Capture what happens *after* the main flow — postmortems, documentation, reflection, or updates to systems and people.
@@ -66,7 +59,6 @@ sources: []
 - 
 
 ---
-
 # ⚠️ Common Pitfalls
 > [!tip]
 > Note common mistakes, oversights, or conditions that make the situation worse.  

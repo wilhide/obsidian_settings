@@ -10,7 +10,6 @@ related: []
 sources: []
 poc:
 ---
-
 > [!check] **Concept or something else?**
 > Use this note for *understanding*, not *doing*.  
 > It explains **what something is**, **why it matters**, and **how it connects** to other ideas.  
@@ -20,12 +19,10 @@ poc:
 > If you’re gathering **research or source material**, use a 🔬 *Research* note.
 
 ---
-
 > [!info] **TL;DR**
 > Summarize this concept in 2–4 sentences. What is it, why does it matter, and when would you apply it?
 
 ---
-
 # 💡 Key Principles
 > [!tip]
 > Capture the core truths or rules that define this concept. These are the takeaways you’d want to remember without rereading the full note.
@@ -35,7 +32,6 @@ poc:
 - 
 
 ---
-
 # 🧠 Example / Application
 > [!tip]
 > Ground the idea with a real or imagined scenario, analogy, or command sequence.  
@@ -43,6 +39,7 @@ poc:
 
 - 
 
+---
 # ❓ Questions
 ```dataviewjs
 const tag = "#question"

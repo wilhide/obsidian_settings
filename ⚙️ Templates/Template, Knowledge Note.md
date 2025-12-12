@@ -12,8 +12,6 @@ related: []
 sources: []
 poc:
 ---
-
-
 > [!info] Knowledge Capture Flow  
 > - Start with a short **Summary** of what you learned.  
 > - Add **Reflection** only if you feel inspired.  

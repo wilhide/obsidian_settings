@@ -9,7 +9,6 @@ attendees: []
 project: 
 related: []
 ---
-
 > [!summary] Purpose
 > Briefly state the objective of this meeting.
 - 

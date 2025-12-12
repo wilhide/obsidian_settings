@@ -19,12 +19,10 @@ poc:
 > If you’re outlining **a reusable design approach**, use a 🧱 *Pattern*.
 
 ---
-
 > [!info] **TL;DR**
 > Summarize what this research explores and the main question or hypothesis you’re investigating.
 
 ---
-
 # 🔍 Purpose / Research Question
 > [!tip]
 > Clearly define what you’re trying to learn, test, or understand.  
@@ -33,14 +31,12 @@ poc:
 - 
 
 ---
-
 # 🧾 Raw Notes
 >[!tip]
 >Capture stream-of-consciousness material here — phrases, examples, commands, code, or thoughts.  
 ## <% tp.date.now("YYYY-MM-DD") %>
 
 ---
-
 # 🧩 Key Findings
 > [!tip]
 > Capture essential insights, takeaways, or observations.  
@@ -70,6 +66,7 @@ poc:
 
 - 
 
+---
 # ❓ Questions
 ```dataviewjs
 const tag = "#question"

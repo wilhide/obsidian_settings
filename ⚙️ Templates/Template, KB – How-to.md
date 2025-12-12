@@ -19,12 +19,10 @@ poc:
 > If you’re compiling **experiments or findings**, use a 🔬 *Research* note.
 
 ---
-
 > [!info] **TL;DR**
 > Describe what this How-to accomplishes and when to use it (1–3 sentences).
 
 ---
-
 # ⚙️ Prerequisites
 > [!tip]
 > List what must be true or available before starting — tools, permissions, context, or files.
@@ -33,7 +31,6 @@ poc:
 - 
 
 ---
-
 # 🚀 Steps
 > [!tip]
 > Write the ordered sequence needed to complete the task.  
@@ -44,7 +41,6 @@ poc:
 3. 
 
 ---
-
 # ✅ Verification
 > [!tip]
 > Explain how to confirm the task succeeded — logs, output, behavior, or visual cues.
@@ -52,7 +48,6 @@ poc:
 - 
 
 ---
-
 # 🧯 Troubleshooting
 > [!tip]
 > Capture known issues, error messages, and their solutions.  
@@ -60,6 +55,7 @@ poc:
 
 - 
 
+---
 # ❓ Questions
 ```dataviewjs
 const tag = "#question"
