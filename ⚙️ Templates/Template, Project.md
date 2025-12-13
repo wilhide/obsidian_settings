@@ -15,8 +15,13 @@ division:
 > Use this note for any goal that requires **multiple steps** and results in a clear **outcome or deliverable**.  
 > If it’s a single action, make it a **task**.  
 > If it’s an ongoing process (no endpoint), make it a **routine** or **playbook**.
+
+
+> [!tip] Phases and Statuses
 > - **Phases:** Idea, Planning, Execution, Review, Closed
 > - **Statuses:** Active, Blocked, On Hold, Completed
+> To close out a project, add the #complete tag.
+
 
 ---
 # 🧠 Idea
