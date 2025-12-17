@@ -20,14 +20,13 @@ poc:
 
 ---
 > [!info] **TL;DR**
-> Summarize this concept in 2–4 sentences. What is it, why does it matter, and when would you apply it?
+> <% tp.file.cursor(1) %>
 
 ---
 # 💡 Key Principles
 > [!tip]
 > Capture the core truths or rules that define this concept. These are the takeaways you’d want to remember without rereading the full note.
-
-- 
+- <% tp.file.cursor(2) %>
 - 
 - 
 
@@ -36,8 +35,7 @@ poc:
 > [!tip]
 > Ground the idea with a real or imagined scenario, analogy, or command sequence.  
 > Ask yourself: *“How have I seen or could I see this concept in action?”*
-
-- 
+- <% tp.file.cursor(3) %>
 
 ---
 # ❓ Questions

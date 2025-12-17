@@ -20,21 +20,21 @@ poc:
 
 ---
 > [!info] **TL;DR**
-> Summarize what this research explores and the main question or hypothesis you’re investigating.
+> <% tp.file.cursor(1) %>
 
 ---
 # 🔍 Purpose / Research Question
 > [!tip]
 > Clearly define what you’re trying to learn, test, or understand.  
 > Framing a question helps you focus your research and avoid rabbit holes.
-
-- 
+- <% tp.file.cursor(2) %>
 
 ---
 # 🧾 Raw Notes
 >[!tip]
 >Capture stream-of-consciousness material here — phrases, examples, commands, code, or thoughts.  
 ## <% tp.date.now("YYYY-MM-DD") %>
+- <% tp.file.cursor(3) %>
 
 ---
 # 🧩 Key Findings

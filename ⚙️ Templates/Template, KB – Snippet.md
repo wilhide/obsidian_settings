@@ -23,4 +23,4 @@ sources: []
 # 🧰 Code / Command
 > [!tip]
 > Paste the snippet here. Use fenced code blocks and include language syntax highlighting.
-
+<% tp.file.cursor(1) %>

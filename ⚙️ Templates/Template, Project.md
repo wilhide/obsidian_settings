@@ -28,7 +28,7 @@ division:
 > [!tip]
 > Capture the **spark** — what inspired this project, why it matters, and what problem it solves.  
 > Don’t overthink it; this is where raw ideas live before refinement.
-
+<% tp.file.cursor(1) %>
 
 ---
 # 🪜 Plan / Milestones
@@ -36,7 +36,7 @@ division:
 > Outline the high-level steps or major checkpoints that will lead to completion.  
 > These can be Tasks plugin checkboxes or general milestones.  
 > Keep it flexible — this is your roadmap, not a contract.
-
+<% tp.file.cursor(2) %>
 
 ---
 # ⚙️ Work Log
@@ -46,7 +46,7 @@ division:
 > Each entry can link out to Research or How-to notes created during this project.
 
 ## <% tp.date.now("YYYY-MM-DD") %>
-
+- <% tp.file.cursor(3) %>
 ---
 # 🪞 Reflection
 > [!tip]

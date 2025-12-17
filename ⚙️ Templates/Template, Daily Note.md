@@ -7,7 +7,7 @@ Focus area of the day:
 🔹 3. 
 
 ## 📋 Tasks
-
+<% tp.file.cursor(1) %>
 
 ## 🧠 Notes & Ideas
 - 

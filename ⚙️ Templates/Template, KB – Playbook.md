@@ -19,22 +19,20 @@ sources: []
 
 ---
 > [!info] **TL;DR**
-> In 2–3 sentences, describe the scenario this Playbook addresses and the outcome it achieves.
+> <% tp.file.cursor(1) %>
 
 ---
 # 🎯 Trigger / When to Use
 > [!tip]
 > Define the conditions or signals that tell you to use this playbook.  
 > Example: *“Use this when an EC2 instance is unresponsive for more than 10 minutes.”*
-
-- 
+- <% tp.file.cursor(2) %>
 
 ---
 # 🧭 Objective
 > [!tip]
 > State what success looks like — the desired end condition or measurable outcome.
-
-- 
+- <% tp.file.cursor(3) %>
 
 ---
 # 🪜 Phases

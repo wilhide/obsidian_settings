@@ -19,7 +19,7 @@ related: []
 
 ---
 # 🗒️ Notes
-- 
+- <% tp.file.cursor(1) %>
 
 ---
 # 🔃 Follow-ups & Tasks

@@ -16,5 +16,13 @@
       "key": "Enter"
     }
   ],
-  "editor:open-link-in-new-leaf": []
+  "editor:open-link-in-new-leaf": [],
+  "templater-obsidian:jump-to-next-cursor-location": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Tab"
+    }
+  ]
 }

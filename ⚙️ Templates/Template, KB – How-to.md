@@ -20,14 +20,13 @@ poc:
 
 ---
 > [!info] **TL;DR**
-> Describe what this How-to accomplishes and when to use it (1–3 sentences).
+> <% tp.file.cursor(1) %>
 
 ---
 # ⚙️ Prerequisites
 > [!tip]
 > List what must be true or available before starting — tools, permissions, context, or files.
-
-- 
+- <% tp.file.cursor(2) %>
 - 
 
 ---
@@ -35,8 +34,7 @@ poc:
 > [!tip]
 > Write the ordered sequence needed to complete the task.  
 > Include code blocks, commands, or screenshots if relevant.
-
-1. 
+1. <% tp.file.cursor(3) %>
 2. 
 3. 
 
@@ -44,7 +42,6 @@ poc:
 # ✅ Verification
 > [!tip]
 > Explain how to confirm the task succeeded — logs, output, behavior, or visual cues.
-
 - 
 
 ---

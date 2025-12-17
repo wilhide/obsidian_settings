@@ -19,23 +19,21 @@ sources: []
 
 ---
 > [!info] **TL;DR**
-> Briefly summarize the recurring problem this pattern solves and its core idea.
+> <% tp.file.cursor(1) %>
 
 ---
 # 🧩 Problem
 > [!tip]
 > Describe the context and challenge this pattern addresses.  
 > What situation repeatedly causes friction, inefficiency, or confusion?
-
-- 
+- <% tp.file.cursor(2) %>
 
 ---
 # 💡 Solution
 > [!tip]
 > Outline the reusable approach, structure, or model that resolves the problem.  
 > Focus on principles and relationships, not one-time steps.
-
-- 
+- <% tp.file.cursor(3) %>
 
 ---
 # ⚙️ Implementation

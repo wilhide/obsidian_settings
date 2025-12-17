@@ -25,7 +25,7 @@ related:
 > [!note] **Purpose**  
 > Capture stream-of-consciousness material here — phrases, examples, commands, code, or thoughts.  
 > Prioritize **speed and completeness** over neatness; you’ll distill later.
-
+<% tp.file.cursor(1) %>
 ---
 # 🧪 Labs / Demos
 > [!tip] **Purpose**  
