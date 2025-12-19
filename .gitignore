@@ -4,8 +4,12 @@
 # Allow these paths
 !.gitignore
 !.obsidian/
+!🧾 Metadata/
+🧾 Metadata/*
 !🧾 Metadata/Scripts/
+!🧾 Metadata/Scripts/**
 !🧾 Metadata/Clipper/
+!🧾 Metadata/Clipper/**
 !🧭 Dashboards/
 !⚙️ Templates/
 

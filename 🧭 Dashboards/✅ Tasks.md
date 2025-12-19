@@ -128,7 +128,7 @@ exclude sub-items
 ### 🟢 NEXT
 ```tasks
 not done
-path regex matches /^(📥 Inbox|📅 Daily Notes)/u
+path regex matches /^(📥 Inbox|📅 Daily Notes|📝 Meetings)/u
 tags do not include waiting
 tags do not include blocked
 tags do not include complete
@@ -143,7 +143,7 @@ exclude sub-items
 ### 🟡 WAITING
 ```tasks
 not done
-path regex matches /^(📥 Inbox|📅 Daily Notes)/u
+path regex matches /^(📥 Inbox|📅 Daily Notes|📝 Meetings)/u
 tags include waiting
 tags do not include complete
 tags do not include onhold
@@ -157,7 +157,7 @@ exclude sub-items
 ### 🔴 BLOCKED
 ```tasks
 not done
-path regex matches /^(📥 Inbox|📅 Daily Notes)/u
+path regex matches /^(📥 Inbox|📅 Daily Notes|📝 Meetings)/u
 tags include blocked
 tags do not include complete
 tags do not include onhold
