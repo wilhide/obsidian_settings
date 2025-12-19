@@ -1,22 +1,20 @@
-# 🗓️ {{date:YYYY-MM-DD, dddd}}
-
-## 🌤️ Focus & Priorities
+# 🌤️ Focus & Priorities
 Focus area of the day:
 🔹 1. 
 🔹 2. 
 🔹 3. 
 
-## 📋 Tasks
+# 📋 Tasks
 <% tp.file.cursor(1) %>
 
-## 🧠 Notes & Ideas
+# 🧠 Notes & Ideas
 - 
 
-## 💭 Reflection (optional)
+# 💭 Reflection (optional)
 - 🌟 Highlight of the day:
 - 💡 One insight or improvement:
 
-## 🌱 Habit Tracker
+# 🌱 Habit Tracker
 
 
 > [!check] Quick End-of-Day Reflection  
