@@ -358,6 +358,36 @@
       },
       "fileExistsMode": "Nothing",
       "setFileExistsBehavior": true
+    },
+    {
+      "id": "73724da5-a956-44e2-96fb-92b3d28ea69d",
+      "name": "New Information System",
+      "type": "Template",
+      "command": true,
+      "templatePath": "⚙️ Templates/Template, KB – Information System.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "🌐 {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "🧠 Knowledge Base"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true
     }
   ],
   "inputPrompt": "multi-line",

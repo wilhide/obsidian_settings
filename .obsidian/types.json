@@ -28,6 +28,11 @@
     "TQ_show_tree": "checkbox",
     "TQ_show_urgency": "checkbox",
     "ceu": "number",
-    "poc": "multitext"
+    "poc": "multitext",
+    "ao": "multitext",
+    "so": "multitext",
+    "assessors": "multitext",
+    "atd": "date",
+    "aa": "date"
   }
 }
