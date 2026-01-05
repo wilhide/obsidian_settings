@@ -10,6 +10,7 @@ so:
 assessors:
 aa:
 atd:
+pii:
 ---
 # 📋 System Summary
 **[Archer Link]()**
@@ -20,6 +21,7 @@ atd:
 | **Assessors**                      | `= this.assessors` |
 | **Authorization Termination Date** | `= this.atd`       |
 | **Annual Assessment Due**          | `= this.aa`        |
+| **Contains PII**                   | `= this.pii`       |
 ## Description
 
 

@@ -33,6 +33,7 @@
     "so": "multitext",
     "assessors": "multitext",
     "atd": "date",
-    "aa": "date"
+    "aa": "date",
+    "pii": "checkbox"
   }
 }
