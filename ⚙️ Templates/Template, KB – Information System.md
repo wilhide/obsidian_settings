@@ -16,14 +16,15 @@ impact_level:
 # 📋 System Summary
 **[Archer Link]()**
 
-| **Impact Level**                   | `= this.impact_level` |
-| ---------------------------------- | --------------------- |
-| **Authorizing Official**           | `= this.ao`           |
-| **System Owner**                   | `= this.so`           |
-| **Assessors**                      | `= this.assessors`    |
-| **Authorization Termination Date** | `= this.atd`          |
-| **Annual Assessment Due**          | `= this.aa`           |
-| **Contains PII**                   | `= this.pii`          |
+| System Property                | Status                |
+| ------------------------------ | --------------------- |
+| Impact Level                   | `= this.impact_level` |
+| Authorizing Official           | `= this.ao`           |
+| System Owner                   | `= this.so`           |
+| Assessors                      | `= this.assessors`    |
+| Authorization Termination Date | `= this.atd`          |
+| Annual Assessment Due          | `= this.aa`           |
+| Contains PII                   | `= this.pii`          |
 ## Description
 
 
