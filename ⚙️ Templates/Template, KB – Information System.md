@@ -5,8 +5,6 @@ tags:
   - system
 last_reviewed: 2025-11-04
 related: []
-sources: []
-poc:
 ao:
 so:
 assessors:
@@ -14,10 +12,23 @@ aa:
 atd:
 ---
 # 📋 System Summary
+**[Archer Link]()**
+
+| Authorizing Official               | `= this.ao`        |
+| ---------------------------------- | ------------------ |
+| **System Owner**                   | `= this.so`        |
+| **Assessors**                      | `= this.assessors` |
+| **Authorization Termination Date** | `= this.atd`       |
+| **Annual Assessment Due**          | `= this.aa`        |
+## Description
 
 
 ---
 # ⚙️ Components
+
+
+---
+# 📝 Notes
 
 
 ---
