@@ -25,9 +25,9 @@ tags do not include complete
 tags do not include onhold
 tags do not include slack
 is not recurring
-group by filename
+sort by created desc
 exclude sub-items
-hide backlinks
+show backlinks
 ```
 
 # 🟡 Waiting Tasks
@@ -38,8 +38,8 @@ tags do not include complete
 tags do not include onhold
 tags do not include slack
 is not recurring
-group by filename
-hide backlinks
+sort by created desc
+show backlinks
 exclude sub-items
 ```
 > [!tip] Review Reminder  
@@ -53,7 +53,7 @@ tags do not include complete
 tags do not include onhold
 tags do not include slack
 is not recurring
-group by filename
-hide backlinks
+sort by created desc
+show backlinks
 exclude sub-items
 ```
