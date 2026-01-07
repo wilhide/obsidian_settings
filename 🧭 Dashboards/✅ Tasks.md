@@ -25,7 +25,7 @@ tags do not include complete
 tags do not include onhold
 tags do not include slack
 is not recurring
-sort by created desc
+sort by created reverse
 exclude sub-items
 show backlinks
 ```
@@ -38,7 +38,7 @@ tags do not include complete
 tags do not include onhold
 tags do not include slack
 is not recurring
-sort by created desc
+sort by created reverse
 show backlinks
 exclude sub-items
 ```
@@ -53,7 +53,7 @@ tags do not include complete
 tags do not include onhold
 tags do not include slack
 is not recurring
-sort by created desc
+sort by created reverse
 show backlinks
 exclude sub-items
 ```
