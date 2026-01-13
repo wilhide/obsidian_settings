@@ -26,7 +26,7 @@ tags do not include onhold
 tags do not include slack
 is not recurring
 sort by created reverse
-exclude sub-items
+show tree
 show backlinks
 ```
 
@@ -40,7 +40,7 @@ tags do not include slack
 is not recurring
 sort by created reverse
 show backlinks
-exclude sub-items
+show tree
 ```
 > [!tip] Review Reminder  
 > 🔁 Check these during your Weekly Review.
@@ -55,5 +55,5 @@ tags do not include slack
 is not recurring
 sort by created reverse
 show backlinks
-exclude sub-items
+show tree
 ```
