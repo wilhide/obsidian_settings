@@ -36,6 +36,7 @@
     "aa": "date",
     "pii": "checkbox",
     "itso": "multitext",
-    "isso": "multitext"
+    "isso": "multitext",
+    "privacy": "multitext"
   }
 }

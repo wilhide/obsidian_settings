@@ -10,6 +10,7 @@ so:
 itso:
 isso:
 assessors:
+privacy:
 aa:
 atd:
 pii:
