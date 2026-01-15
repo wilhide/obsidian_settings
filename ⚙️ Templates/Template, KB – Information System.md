@@ -24,7 +24,10 @@ impact_level:
 | Impact Level                   | `= this.impact_level` |
 | Authorizing Official           | `= this.ao`           |
 | System Owner                   | `= this.so`           |
+| ITSO                           | `= this.itso`         |
+| ISSO                           | `= this.isso`         |
 | Assessors                      | `= this.assessors`    |
+| Privacy Assessors              | `= this.privacy`      |
 | Authorization Termination Date | `= this.atd`          |
 | Annual Assessment Due          | `= this.aa`           |
 | Contains PII                   | `= this.pii`          |
