@@ -15,7 +15,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "{{VALUE}}\n"
+        "format": "- [ ] {{VALUE}} ➕ {{DATE:YYYY-MM-DD}}\n"
       },
       "insertAfter": {
         "enabled": false,

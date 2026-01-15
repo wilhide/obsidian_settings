@@ -1,7 +1,6 @@
 ---
 obsidianUIMode: preview
 ---
-
 # 📥 Inbox Dashboard
 
 > [!info] Capture Processing
