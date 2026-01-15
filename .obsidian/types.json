@@ -34,6 +34,8 @@
     "assessors": "multitext",
     "atd": "date",
     "aa": "date",
-    "pii": "checkbox"
+    "pii": "checkbox",
+    "itso": "multitext",
+    "isso": "multitext"
   }
 }
