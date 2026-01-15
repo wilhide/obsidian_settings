@@ -15,7 +15,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "- [ ] {{VALUE}} ➕ {{DATE:YYYY-MM-DD}}\n"
+        "format": "{{VALUE}} ➕ {{DATE:YYYY-MM-DD}}"
       },
       "insertAfter": {
         "enabled": false,
@@ -30,8 +30,8 @@
         "direction": "below"
       },
       "prepend": false,
-      "task": false,
-      "openFile": false,
+      "task": true,
+      "openFile": true,
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",
